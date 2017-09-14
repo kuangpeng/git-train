@@ -1,3 +1,4 @@
 this is test
 edit 1
 edit local
+eidt 1-2
