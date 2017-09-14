@@ -1,8 +1,5 @@
 this is test
 edit 1
 edit local
-<<<<<<< Updated upstream
 eidt 1-2
-=======
 edit 1-1
->>>>>>> Stashed changes
